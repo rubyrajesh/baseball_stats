@@ -2,8 +2,11 @@
 
 ``` ruby
 bundle install
+```
+
+```ruby
+Load all players & batting scores into the database
 rake setup
-bundle exec rails console
 ```
 
 ###Stats
