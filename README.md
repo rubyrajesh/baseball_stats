@@ -4,8 +4,8 @@
 bundle install
 ```
 
+####Load all players & batting scores into the database
 ```ruby
-Load all players & batting scores into the database
 rake setup
 ```
 
