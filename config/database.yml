@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql 
+  database: baseball_stats_development 
+  host: localhost
+  username: rajesh
+  password: password
+
+test:
+  adapter: postgresql 
+  database: baseball_stats_test
+  host: localhost
+  username: rajesh
+  password: password
